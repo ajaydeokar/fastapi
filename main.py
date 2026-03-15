@@ -149,7 +149,7 @@ def add_item(item: Item, response_model=ItemResponse):
     )
 
 def main():
-    print("Hello from fastapicode branch!")
+    print("Hello from fastapicode main branch!")
 
 if __name__ == "__main__":
     main()
