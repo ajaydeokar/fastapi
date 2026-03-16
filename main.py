@@ -153,5 +153,8 @@ def main():
     print("Hello from fastapicode branch fastapi!")
     print("friend says Hello from fastapicode branch fastapi!")
     # “Blue is the fifth color of the rainbow.” 
+
+    # “These are the colors of the rainbow.”
+    
 if __name__ == "__main__":
     main()
